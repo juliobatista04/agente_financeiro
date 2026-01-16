@@ -69,7 +69,7 @@ flowchart TD
 
 - [x] Só usa dados fornecidos no contexto
 - [x] Não recomenda investimentos específicos
-- [x] Admits wnsdo n~so dsbr algo
+- [x] Admite quando não sabe de algo
 - [x] foco em educar
 
 ### Limitações Declaradas
