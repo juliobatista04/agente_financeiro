@@ -1,41 +1,91 @@
-# Pitch (3 minutos)
 
-> [!TIP]
-> Você pode usar alguns slides pra apoiar no seu Pitch e mostrar sua solução na prática.
- 
-## Roteiro Sugerido
+ 🎤 Roteiro de Pitch – Agente Financeiro Inteligente com IA
+1. O Problema 
 
-### 1. O Problema (30 seg)
-> Qual dor do cliente você resolve?
+Hoje, grande parte das pessoas tem dificuldade em tomar boas decisões financeiras.
+Mesmo tendo renda, histórico de gastos e objetivos claros, elas não sabem como interpretar esses dados nem como agir.
 
-[Sua descrição aqui]
+Além disso, o acesso a um consultor financeiro é caro, limitado e não está disponível no dia a dia.
+O resultado é desorganização financeira, decisões impulsivas e baixo aproveitamento do patrimônio.
 
-### 2. A Solução (1 min)
-> Como seu agente resolve esse problema?
+👉 O problema central é: falta de orientação financeira personalizada, acessível e em tempo real.
 
-[Sua descrição aqui]
+2. A Solução 
 
-### 3. Demonstração (1 min)
-> Mostre o agente funcionando (pode ser gravação de tela)
+Para resolver isso, eu desenvolvi um Agente Financeiro Inteligente, baseado em Inteligência Artificial.
 
-[Descreva o que será mostrado]
+Esse agente:
 
-### 4. Diferencial e Impacto (30 seg)
-> Por que essa solução é inovadora e qual é o impacto dela na sociedade?
+Analisa dados reais do cliente, como perfil de investidor, patrimônio, transações recentes e histórico de atendimento
 
-[Sua descrição aqui]
+Entende o objetivo financeiro do usuário
 
----
+E responde perguntas de forma clara, objetiva e personalizada
 
-## Checklist do Pitch
+O sistema utiliza:
 
-- [ ] Duração máxima de 3 minutos
-- [ ] Problema claramente definido
-- [ ] Solução demonstrada na prática
-- [ ] Diferencial explicado
-- [ ] Áudio e vídeo com boa qualidade
+Python para processamento de dados
 
----
+Pandas e JSON para análise do histórico financeiro
+
+Modelos de IA generativa para gerar orientações responsáveis
+
+Streamlit para uma interface simples e interativa
+
+Tudo isso sem inventar informações e sempre respeitando o contexto financeiro real do usuário.
+
+3. Demonstração
+
+Na demonstração, eu mostro:
+
+A interface do sistema aberta no navegador
+
+O usuário digitando uma pergunta, por exemplo:
+“Posso investir parte do meu patrimônio em renda variável?”
+
+O agente analisa automaticamente:
+
+Perfil de investidor
+
+Patrimônio disponível
+
+Reserva de emergência
+
+Histórico de transações
+
+Em segundos, o sistema retorna uma resposta personalizada, explicando:
+
+Se a decisão é adequada ao perfil
+
+Os riscos envolvidos
+
+E possíveis próximos passos
+
+Tudo acontece em tempo real, sem necessidade de um especialista humano.
+
+4. Diferencial e Impacto 
+
+O grande diferencial dessa solução é que ela democratiza a educação e a orientação financeira.
+
+Em vez de respostas genéricas, o agente:
+
+Usa dados reais
+
+Evita alucinações
+
+E se adapta ao contexto de cada pessoa
+
+O impacto social é enorme:
+
+Mais pessoas tomando decisões financeiras conscientes
+
+Redução de endividamento
+
+Inclusão financeira com tecnologia acessível
+
+Essa solução pode ser usada por bancos, fintechs, cooperativas ou diretamente pelo consumidor final.
+
+
 
 ## Link do Vídeo
 
