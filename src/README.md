@@ -6,26 +6,29 @@ Esta pasta contém o código do seu agente financeiro.
 
 ```
 src/
-├── app.py              # Aplicação principal (Streamlit/Gradio)
-├── agente.py           # Lógica do agente
-├── config.py           # Configurações (API keys, etc.)
-└── requirements.txt    # Dependências
-```
-
-## Exemplo de requirements.txt
+├── main.py              # Aplicação principal 
+├── app.py               # dados
 
 ```
-streamlit
-openai
-python-dotenv
-```
+## Pré-requisitos
+
+- Python 3.10+
+- Conta no Google AI Studio
+- Chave de API do Gemini
 
 ## Como Rodar
 
 ```bash
-# Instalar dependências
-pip install -r requirements.txt
+# Instalar Streamlit
+pip install streamlit
+
+# Instalar SDK do Google Gemini
+pip install google-generativeai
+
+# (Opcional) Suporte a variáveis de ambiente via .env
+pip install python-dotenv
+
 
 # Rodar a aplicação
-streamlit run app.py
+streamlit run main.py
 ```
