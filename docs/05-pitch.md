@@ -89,6 +89,6 @@ Essa solução pode ser usada por bancos, fintechs, cooperativas ou diretamente 
 
 ## Link do Vídeo
 
-> [Cole aqui o link do seu pitch (YouTube, Loom, Google Drive, etc.)](https://youtu.be/rn7jS2s2ShI)
+> [video explicativo)](https://youtu.be/rn7jS2s2ShI)
 
 [Link do vídeo]
